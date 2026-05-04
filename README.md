@@ -51,3 +51,12 @@ Sample Input and Output:
     INC: 0 votes
     BJP: 1 votes
     JJP: 0 votes
+
+Tools/Technologies used:
+   Java – Core programming language used to develop the application
+   Object-Oriented Programming (OOP) – Used for designing modular and reusable code
+   Eclipse IDE – Used for writing, compiling, and testing the Java code
+   Git & GitHub – Used for version control and project management
+   File System – Used for storing project files and reports
+
+
