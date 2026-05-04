@@ -1,7 +1,7 @@
 Online Voting System
 
 Team Members:
-1. Jayanth Amannchy
+1. Jayanth Amanchy
    Prepared documentation (Phase 1 & Phase 2)
    Organized GitHub repository
 3. Abhilaash Gali
