@@ -16,7 +16,8 @@
 
 # Problem Description:
 The system is developed using Object-Oriented Programming (OOP) concepts in Java.   
-It simulates a basic voting process including voter login, vote casting, and result calculation.    
+It simulates a basic voting process including voter login, vote casting, and result calculation. 
+
 Main Classes  
   Voter.java – Handles voter details and voting actions  
   Candidate.java – Stores candidate information and vote count  
@@ -25,6 +26,7 @@ Main Classes
   Administrator.java – Manages candidates and election flow  
   ElectionOfficer.java – Monitors election status  
   Main.java – Entry point of the application  
+  
 How to Run  
   Compile all .java files  
   Run Main.java  
