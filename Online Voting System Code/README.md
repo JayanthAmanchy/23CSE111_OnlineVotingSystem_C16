@@ -8,12 +8,3 @@ This folder contains the Java source code for the Online Voting System.
   Administrator.java – Manages candidates and election flow  
   ElectionOfficer.java – Monitors election status  
   Main.java – Entry point of the application  
-    
-# How to Run  
-  Compile all .java files  
-  Run Main.java  
-  Follow console instructions to vote  
-  
-# Notes  
-  This is a console-based application  
-  Data is stored temporarily (no database used)
